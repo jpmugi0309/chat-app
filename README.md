@@ -58,7 +58,8 @@ sidebar
     sidebar_user_name
     sidebar_room_new
   sidebar_rooms
-    sidebar_room_name
+    sidebar_room
+      sidebar_room_name
 chat
   chat_header
     chat_room_name
