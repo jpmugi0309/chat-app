@@ -50,3 +50,20 @@
 
 - belongs_to :room
 - belongs_to :user
+
+## HTML class name
+
+sidebar
+  sidebar_header
+    sidebar_user_name
+    sidebar_room_new
+  sidebar_rooms
+    sidebar_room_name
+chat
+  chat_header
+    chat_room_name
+    chat_end_button
+  chat_messages
+  chat_footer
+   chat_input
+   chat_send_button
