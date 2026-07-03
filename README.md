@@ -62,9 +62,14 @@ sidebar
       sidebar_room_name
 chat
   chat_header
-    chat_room_name
+    chat_title
     chat_end_button
+    chat_left_header
+    chat_right_header
   chat_messages
+    chat_name
+    chat_time
+    chat_content
   chat_footer
    chat_input
    chat_send_button
